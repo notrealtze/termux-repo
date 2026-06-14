@@ -1,0 +1,11 @@
+Package: roblox-uploader
+Version: 1.0.0
+Architecture: all
+Maintainer: Developer
+Filename: stable/binary-all/roblox-uploader_1.0.0_all.deb
+Size: 2724
+MD5sum: 84fd27b96a5f7b434313b7a47ca21020
+SHA1: a25627142c306306fe86ffb2cc231f2b40f1cac3
+SHA256: 7ed685fa57d163b355cc10da24e51f1bed3873dfe67b67eca97cd3b38890854f
+Description: A terminal-based GUI tool to upload Roblox animations from Termux.
+
